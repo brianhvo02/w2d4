@@ -1,3 +1,6 @@
 [submodule "recursion_project"]
 	path = recursion_project
 	url = https://github.com/brianhvo02/recursion_project.git
+[submodule "recap_exercises_1"]
+	path = recap_exercises_1
+	url = https://github.com/brianhvo02/recap_exercises_1.git

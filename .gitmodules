@@ -7,3 +7,6 @@
 [submodule "recap_exercises_2"]
 	path = recap_exercises_2
 	url = https://github.com/brianhvo02/recap_exercises_2.git
+[submodule "recap_exercises_3"]
+	path = recap_exercises_3
+	url = https://github.com/brianhvo02/recap_exercises_3.git
